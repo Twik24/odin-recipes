@@ -1,0 +1,1 @@
+This project is basically a creation of a recipes page, so i will be making use of all html skills i have learnt so far like images, list, headings, paragraphs e.t.c
